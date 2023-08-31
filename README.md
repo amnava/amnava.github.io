@@ -2,6 +2,7 @@
 
 ### Education
 M.S. International and Development Economics | University of San Francisco 
+
 B.A. Development Economics | Seattle Pacific University
 
 ### Work Experience
