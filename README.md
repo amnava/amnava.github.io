@@ -3,9 +3,8 @@
 #### Technical Skills: R, Stata, Qualtrics
 
 ## Education
-M.S. International and Development Economics | University of San Francisco 
-
-B.A. Development Economics | Seattle Pacific University
+- M.S. International and Development Economics | University of San Francisco
+- B.A. Development Economics | Seattle Pacific University
 
 ## Work Experience
 **Teaching Assistant: Principles of Macroeconomics @ Seattle Pacific University (_Jan 2018 to March 2023_)**
