@@ -25,7 +25,7 @@ B.A. Development Economics | Seattle Pacific University
 - Graded homework assignments and exams
 - Held office hours
 
-**Policy Intern @ Pacific Northwest Economic Region (_October 2019 to December 2019)**
+**Policy Intern @ Pacific Northwest Economic Region (_October 2019 to December 2019_)**
 - Researched economic relations and government policy for various PNWER projects
 - Worked closely with U.S. and Canadian legislators and business leaders in the Pacific Northwest
 - Assisted with creation of social media posts for Instagram, Twitter, and LinkedIn
