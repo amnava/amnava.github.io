@@ -40,7 +40,7 @@ Used Instrumental Variable Analysis and Machine Learning techniques to identify 
 Used theoretical analysis to investigate whether maternal leave policy allows women to easily enter back into the labor force after their term ends, and what social structures uphold beliefs on women's roles in the labor force.
 
 ## Lectures
-### A Brief Introduction to Macroeconomics, SPU Fall 2022
+### A Brief Introduction to Macroeconomics | Seattle Pacific University, Fall 2022
 
 ## Awards
-### Douglas A. Downing Distinguished Economics Award | Seattle Pacific University (2020)
+### Douglas A. Downing Distinguished Economics Award | Seattle Pacific University, Spring 2020
