@@ -32,6 +32,8 @@
 
 
 ## Projects
+[Code and other information] (https://github.com/amnava/projects)
+
 ### Graduate Thesis
 Used Instrumental Variable Analysis and Machine Learning techniques to identify causal implications of a long-term intervention program for children with an incarcerated parent. This intervention program was created with the purpose ofending intergenerational incarceration for families located in the state ofGeorgia. 
 
