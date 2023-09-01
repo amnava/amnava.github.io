@@ -1,6 +1,6 @@
 # Economist
 
-#### Technical Skills: R, Stata, Qualtrics
+#### Technical Skills: R, Stata, Microsoft Office, Qualtrics, Tableau
 
 ## Education
 - M.S. International and Development Economics | University of San Francisco
